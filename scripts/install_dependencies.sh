@@ -1,4 +1,4 @@
 #!/bin/bash
 
-sudo apt install httpd -y
-sudo service httpd start
+sudo apt install apache2
+sudo service apache2 start
